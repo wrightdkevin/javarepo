@@ -1,5 +1,12 @@
 package foo;
 
+import java.io.*;
+
+class Robot implements Serializable{
+	
+	
+}
+
 public class TestSerialize {
 
 	/**
